@@ -15,7 +15,7 @@ Naikdaun is an Idea and concept generator house, with a complete understanding o
 ## Instalation
 
 ```bash
-git clone https://github.com/saiful-akbar/naikdaun.git
+git clone https://github.com/novanto08/naikdaun.git
 ```
 
 ```bash
